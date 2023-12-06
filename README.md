@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sidru84/Sidru84/blob/main/immaginepostaz.png)
 <h1 align="center">Benvenuto nel GitHub di Andrea Urdis</h1>
-<h3 align="center">Sviluppatore Applicazioni, Videogiochi e Software</h3>
+<h3 align="center">Sviluppatore di Applicazioni, Videogiochi e Software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidru84&label=Profile%20views&color=0e75b6&style=flat" alt="sidru84" /> </p>
 
