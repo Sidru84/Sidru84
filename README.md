@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Andrea Urdis</h1>
-<h3 align="center">Sviluppatore Software Junior dall' Italia</h3>
+<h1 align="center">Benvenuto nel GitHub di Andrea Urdis</h1>
+<h3 align="center">Sviluppatore Applicazioni, Videogiochi e Software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidru84&label=Profile%20views&color=0e75b6&style=flat" alt="sidru84" /> </p>
 
