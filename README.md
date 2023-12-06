@@ -41,7 +41,7 @@
 <h3 align="left">Gestionali Python</h3>
 
 <p> 
-  <img src="" alt="foto Menu1" align="center" width="33%em"/> 
-  <img src="" alt="foto Menu2" align="center" width="33%em"/>
-  <img src="" alt="foto Menu3" align="center" width="33%em"/>
+  <img src="https://github.com/Sidru84/Sidru84/blob/main/07-login.jpg" alt="foto python1" align="center" width="33%em"/> 
+  <img src="" alt="foto python2" align="center" width="33%em"/>
+  <img src="" alt="foto python3" align="center" width="33%em"/>
 </p>
