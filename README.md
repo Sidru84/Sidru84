@@ -33,7 +33,7 @@
 
 <p> 
   <img src="https://github.com/Sidru84/Sidru84/blob/main/Menu1.jpg" alt="foto Menu1" align="center" width="24%em"/> 
-  <img src="https://github.com/Sidru84/Sidru84/blob/main/Gioco2-600x275.png" alt="foto Menu2" align="center" width="24%em"/>
+  <img src="https://github.com/Sidru84/Sidru84/blob/main/Menu2.jpg" alt="foto Menu2" align="center" width="24%em"/>
   <img src="https://github.com/Sidru84/Sidru84/blob/main/Gioco3.png" alt="foto Menu3" align="center" width="24%em"/>
   <img src="https://github.com/Sidru84/Sidru84/blob/main/Gioco3.png" alt="foto Menu4" align="center" width="24%em"/>
 </p>
