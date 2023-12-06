@@ -35,5 +35,13 @@
   <img src="https://github.com/Sidru84/Sidru84/blob/main/Menu1.jpg" alt="foto Menu1" align="center" width="24%em"/> 
   <img src="https://github.com/Sidru84/Sidru84/blob/main/Menu2.jpg" alt="foto Menu2" align="center" width="24%em"/>
   <img src="https://github.com/Sidru84/Sidru84/blob/main/Menu3.jpg" alt="foto Menu3" align="center" width="24%em"/>
-  <img src="" alt="foto Menu4" align="center" width="24%em"/>
+  <img src="https://github.com/Sidru84/Sidru84/blob/main/App%20AR%201.jpg" alt="foto Menu4" align="center" width="24%em"/>
+</p>
+
+<h3 align="left">Gestionali Python</h3>
+
+<p> 
+  <img src="" alt="foto Menu1" align="center" width="33%em"/> 
+  <img src="" alt="foto Menu2" align="center" width="33%em"/>
+  <img src="" alt="foto Menu3" align="center" width="33%em"/>
 </p>
