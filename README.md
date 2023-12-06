@@ -20,10 +20,19 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidru84&" alt="sidru84" /></p>
 
 <h2 align="center">Lavori:</h2>
+<h3 align="left">Videogiochi con Unity e C#</h3>
 
 <p> 
   <img src="https://github.com/Sidru84/Sidru84/blob/main/Gioco1.png" alt="foto Gioco1" align="center" width="49%em"/> 
   <img src="https://github.com/Sidru84/Sidru84/blob/main/Gioco2-600x275.png" alt="foto Gioco2" align="center" width="49%em"/>
   <img src="https://github.com/Sidru84/Sidru84/blob/main/Gioco3.png" alt="foto Gioco3" align="center" width="49%em"/>
   <img src="https://github.com/Sidru84/Sidru84/blob/main/Gioco4.png" alt="foto Gioco4" align="center" width="49%em"/>
+</p>
+
+<h3 align="left">Applicazioni AR (realtà aumentata)</h3>
+
+<p> 
+  <img src="https://github.com/Sidru84/Sidru84/blob/main/Gioco1.png" alt="foto Gioco1" align="center" width="33%em"/> 
+  <img src="https://github.com/Sidru84/Sidru84/blob/main/Gioco2-600x275.png" alt="foto Gioco2" align="center" width="33%em"/>
+  <img src="https://github.com/Sidru84/Sidru84/blob/main/Gioco3.png" alt="foto Gioco3" align="center" width="33%em"/>
 </p>
