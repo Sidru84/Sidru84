@@ -42,6 +42,6 @@
 
 <p> 
   <img src="https://github.com/Sidru84/Sidru84/blob/main/07-login.jpg" alt="foto python1" align="center" width="33%em"/> 
-  <img src="" alt="foto python2" align="center" width="33%em"/>
+  <img src="https://github.com/Sidru84/Sidru84/blob/main/17-3foto.jpg" alt="foto python2" align="center" width="33%em"/>
   <img src="" alt="foto python3" align="center" width="33%em"/>
 </p>
