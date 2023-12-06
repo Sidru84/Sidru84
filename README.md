@@ -21,4 +21,9 @@
 
 <h2 align="center">Lavori:</h2>
 
-<p> <img src="https://github.com/Sidru84/Sidru84/blob/main/Gioco2-600x275.png" alt="foto Gioco" align="center" width="500px"/> </p>
+<p> 
+  <img src="https://github.com/Sidru84/Sidru84/blob/main/Gioco2-600x275.png" alt="foto Gioco" align="center" width="400px"/> 
+  <img src="https://github.com/Sidru84/Sidru84/blob/main/Gioco2-600x275.png" alt="foto Gioco" align="center" width="400px"/>
+  <img src="https://github.com/Sidru84/Sidru84/blob/main/Gioco2-600x275.png" alt="foto Gioco" align="center" width="400px"/>
+  <img src="https://github.com/Sidru84/Sidru84/blob/main/Gioco2-600x275.png" alt="foto Gioco" align="center" width="400px"/>
+</p>
