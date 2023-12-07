@@ -41,8 +41,12 @@
 </p>
 
 <p> 
-  <img src="https://github.com/Sidru84/Sidru84/blob/main/Assistente%20Virtuale.png" alt="foto Menu1" align="center" width="49%em"/> 
-  <img src="https://github.com/Sidru84/Sidru84/blob/main/Menu2.jpg" alt="foto Menu2" align="center" width="49%em"/>
+  <img src="https://github.com/Sidru84/Sidru84/blob/main/Assistente%20Virtuale.png" alt="foto Menu1" align="center" width="48%em"/> 
+  <img src="https://github.com/Sidru84/Sidru84/blob/main/Tempio%20Poseidone.png" alt="foto Menu2" align="center" width="49%em"/>
+</p>
+
+<p> 
+  <img src="https://github.com/Sidru84/Sidru84/blob/main/Assistente%20Virtuale.png" alt="foto Menu1" align="center" width="99%em"/> 
 </p>
 
 <h3 align="left">Gestionali Python</h3>
