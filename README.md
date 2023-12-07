@@ -46,13 +46,13 @@
 </p>
 
 <p> 
-  <img src="https://github.com/Sidru84/Sidru84/blob/main/Assistente%20Virtuale.png" alt="foto Menu1" align="center" width="99%em"/> 
+  <img src="https://github.com/Sidru84/Sidru84/blob/main/Monumento%20marinai%2012.png" alt="foto Menu1" align="center" width="99%em"/> 
 </p>
 
 <h3 align="left">Gestionali Python</h3>
 
 <p> 
-  <img src="https://github.com/Sidru84/Sidru84/blob/main/07-login.jpg" alt="foto python1" align="center" width="33%em"/> 
+  <img src="https://github.com/Sidru84/Sidru84/blob/main/07-login.jpg" alt="foto python1" align="center" width="30%em"/> 
   <img src="https://github.com/Sidru84/Sidru84/blob/main/17-3foto.jpg" alt="foto python2" align="center" width="33%em"/>
-  <img src="https://github.com/Sidru84/Sidru84/blob/main/24-query.jpg" alt="foto python3" align="center" width="33%em"/>
+  <img src="https://github.com/Sidru84/Sidru84/blob/main/24-query.jpg" alt="foto python3" align="center" width="36%em"/>
 </p>
